@@ -1,5 +1,6 @@
 ![Logo](websocket-sharp_logo.png)
-
+## websocket-sharp-obranu ##
+This fork provides fixes to websocket-sharp to make it work better with the obranu project
 ## Welcome to websocket-sharp! ##
 
 websocket-sharp supports:
